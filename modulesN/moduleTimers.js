@@ -25,4 +25,5 @@ function producto(a, b) {
 }
 
 console.log("5 multiplicado por 5");
+
 setInterval(producto, 1000, 5, 5);
